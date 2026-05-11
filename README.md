@@ -21,7 +21,7 @@ from visible spectrum aerial imagery to thermal humanitarian landmine detection.
 | **Practical** | Opens the door to using existing drone models for new sensing modalities |
 
 ## 🚀 Production Deployment
-
+Most notebooks never ship. This model did.
 The model was quantized to **TensorFlow Lite** and deployed in a full‑stack production application alongside **YOLOv11 (PyTorch)** for video object detection.
 
 **Live in production:** [ImageSegment AI on Hugging Face Spaces](https://huggingface.co/spaces/imagesegmentsupport/imagesegment-ai)
