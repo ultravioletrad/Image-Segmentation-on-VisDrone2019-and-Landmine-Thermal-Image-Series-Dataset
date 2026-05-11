@@ -24,7 +24,7 @@ from visible spectrum aerial imagery to thermal humanitarian landmine detection.
 Most notebooks never ship. This model did.
 The model was quantized to **TensorFlow Lite** and deployed in a full‑stack production application alongside **YOLOv11 (PyTorch)** for video object detection.
 
-👉 **Live demo:** [ImageSegment AI on Hugging Face Spaces](https://huggingface.co/spaces/imagesegmentsupport/imagesegment-ai)
+🔗 **[Try it live](https://imagesegmentsupport-imagesegment-ai.hf.space)** — *Open in a new tab for best experience*
 
 **Tech stack:** Django REST · React · TFLite (UNET) · YOLOv11 (PyTorch) · PostgreSQL · Cloudinary · Docker
 
